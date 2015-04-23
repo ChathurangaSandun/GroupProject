@@ -1,0 +1,33 @@
+April 19 at 11:52am
+
+
+SRS ??? UseCase ??? ????? ??? 
+Customer:1)Registration
+2)Log into System
+3)Online Reservation
+4)Feedback(Rating System )
+Controll Staff
+1)Add reservations by call to the system
+2)Assign Drivers 
+3)Update database by adding daily earnings by drivers
+4)Send Notifications to Drivers
+5)Cancel reservations
+Driver 
+1)Update arrival and depart time
+2)Accept assigned job
+3)View pavements and available balance 
+Admin
+1)Add Driver Details
+2)Add Vehicle Details
+3)Change Rates
+Manager
+1)View Reports
+???? 
+Customer:Nadun
+Controll StaffChathuranga Sandun+Madhusha Udari
+Driver : Chathura Ranaweera
+AdminNalin Ranasinghe
+ManagerChathuri Darshika Gunarathna
+????? 
+?????? ????????? ??? comment ?????
+
